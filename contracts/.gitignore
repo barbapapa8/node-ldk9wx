@@ -1,0 +1,14 @@
+node_modules
+.vscode/*
+!*.default
+*.local
+
+# rocketh
+generated
+deployments/localhost
+
+# hardhat
+coverage
+coverage.json
+cache
+artifacts

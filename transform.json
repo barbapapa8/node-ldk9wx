@@ -1,0 +1,16 @@
+[
+	{
+		"action": "remove",
+		"files": [
+			"transform.js",
+			"transform.json",
+			"LICENSE",
+			".github",
+			"TODO.md",
+			"publish.sh",
+			"web/TODO.md",
+			"web/src/lib/components/jolly-roger",
+			"web/static/images/featured"
+		]
+	}
+]
